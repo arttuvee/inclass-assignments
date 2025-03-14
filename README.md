@@ -1,1 +1,1 @@
-Week 7 lecture assignment can be found in master branch
+Week 7 lecture assignment can be found in master branch of this repository
